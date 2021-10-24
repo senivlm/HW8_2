@@ -1,0 +1,9 @@
+﻿Water 5,1
+Salat 12,3
+Coca-Cola 0,4
+Tomato 3,2
+Chips 11,2
+Anamie_Girl 10,2
+Cum 11,3
+Cucumber 66,2
+Aperol 11,2

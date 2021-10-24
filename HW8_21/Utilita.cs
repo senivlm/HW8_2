@@ -7,8 +7,8 @@ namespace HW8_21
 
     class Utilita
     {
-        private readonly string pathStorage1 = @"C:\\Users\\admin\\source\\repos\\HW8_2\\HW8_2\\Storage1.txt";
-        private readonly string pathStorage2 = @"C:\\Users\\admin\\source\\repos\\HW8_2\\HW8_2\\Storage2.txt";
+        private readonly string pathStorage1 = @"C:\\Users\\admin\\source\\repos\\HW8_21\\HW8_21\\Storage1.txt";
+        private readonly string pathStorage2 = @"C:\\Users\\admin\\source\\repos\\HW8_21\\HW8_21\\Storage2.txt";
         private string[] reader1;
         private string[] reader2;
         private const string Message_File = "Check path Properly";

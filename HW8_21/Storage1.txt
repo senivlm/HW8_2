@@ -1,0 +1,10 @@
+﻿Fish 10,2
+Meat 20,4
+Butter 0,5
+Bread 2,3
+Water 5,1
+Coca-Cola 0,4
+Tomato 3,2
+Cucumber 66,2
+Cheese 50,1
+Beans 69,69
