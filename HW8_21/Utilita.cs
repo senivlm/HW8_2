@@ -14,7 +14,7 @@ namespace HW8_21
         private const string Message_File = "Check path Properly";
          Storage storage1;
          Storage storage2;
-
+Треба поговорити про стиль
         public Utilita()
         {
             try
@@ -22,6 +22,7 @@ namespace HW8_21
                 reader1 = File.ReadAllLines(pathStorage1);
                 reader2 = File.ReadAllLines(pathStorage2);
             }
+    Враховуйте, що Ви не відслідковуєте специфіку винятку
             catch (IOException)
             {
                 Console.WriteLine("Message_File");
@@ -47,7 +48,7 @@ namespace HW8_21
             storage2 = Initilization(reader2);
         }
 
-
+Не зрозумілий метод
         public Storage Initilization(string[] reader1)
         {
             string[] sub;
@@ -60,7 +61,7 @@ namespace HW8_21
             return new Storage(product);
         }
 
-
+Делегат краще було зробити поза класом
         public void allFunc(Program.More_or_Less del)
         {
             string result = null;
